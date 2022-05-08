@@ -1,0 +1,1 @@
+En este ejercicio trabajamos directamente con la consola y el objetivo es irnos moviendo atraves de las carpetas creadas, copiando y modificandos archivos, es una exceente manera de irnos acostumbrado a trabajar con la terminal. 
